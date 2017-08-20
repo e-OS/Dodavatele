@@ -8,3 +8,7 @@ Tvorba a obsluha databáze dodavatelů v systému e-OS.
 **delDod()**
 - Výpis dodavatelů<br>
 **getDods()**
+<br>
+<br>
+**Dependencies**
+- e-OS/MojeFirma
